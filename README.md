@@ -1,1 +1,1 @@
-# Analizador-de-espectro-embebido-en-BeagleBone-Black
+# Analizador de espectro basado en SDR embebido en BeagleBone Black
